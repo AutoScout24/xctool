@@ -1,0 +1,8 @@
+/Podfile\.lock:\d+:
+/Pods/Manifest.lock:\d+:
+:.buckversion:1:(5191aa5763189d163a80e44e0eb8e60a66824496|ecae40a002b06f609817a5be87a8ebb34ae44a7c)
+# found in README.md
+a2715306-ca74-11e3-9889-fa50607cc412
+# found in xctool/xctool-tests/TestData/JSONStreamReporter-runtests.txt
+"totalDuration":0\.00008797645568847656
+\.gitallowed
